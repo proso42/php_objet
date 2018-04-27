@@ -1,0 +1,60 @@
+Suite à notre entretien
+Florian Paulmier <florian@lateam.com>
+mer. 11/04, 08:59
+Vous
+Bonjour Philippe,
+
+J'étais ravis de te rencontrer. Tu m'as l'air intéressé et motivé.
+
+Une question : si cela se passe bien pendant ton stage serait tu prêt à faire de l'alternance après ton stage ?
+
+
+​Ci joint un petit test en PHP qui me permettra de voir ton niveau.​ 
+
+Et aussi le test Node JS à faire après : https://drive.google.com/file/d/0B8BSgRHISlhRaFp3SjRleVVUdFE/view
+
+Bonne journée
+
+Florian
+
+Vous allez dÃ©velopper un petit systÃ¨me de combat en tour par tour en PHP
+Vous devrez utiliser les classes : personnage - sorcier - guerrier
+
+4 personnages seront en combat : 
+- Dumbledor
+- Harry
+- Aragorn
+- Sauron
+
+Chacun des personnages doit avoir les classes spÃ©cifiques suivant leurs compÃ©tences.
+
+ils possÃ©deront tous :
+- des points de vie (100 PV)
+- 2 potions de soins alÃ©atoires (10-40 PV)
+
+Les sorciers pourront utiliser les sorts :
+- 'expeliarmus'
+- 'avada kedavra' (utilisable uniquement si moins de 15 PV)
+- 'sectusempra'
+
+Les guerriers pourront utiliser les attaques :
+- simples
+- lourdes
+- spÃ©ciales (utilisable 1 fois)
+
+
+Consigne :
+Le combat ne doit pas finir toujours de la mÃªme maniÃ¨re avec le mÃªme vainqueur.
+Un personnage ne peut pas mourir Ã  l'issue d'un seul coup, vous faites combattre 4 Heros.
+Utilisez des attributs privÃ©s si possible.
+Bien structurer le code en class et fonctions.
+Utiliser plusieurs fichiers.
+
+
+Conseils :
+Vos personnages peuvent parler.
+Mouvementer un peu l'action.
+Si vous avez besoin d'aide, regarder l'hÃ©ritage en PHP.
+
+
+Good Luck :)
